@@ -1,5 +1,5 @@
 ### Seja Bem Vindo👋
-Meu nome é Natália, tenho 21 anos e estou cursando o terceiro ano de engenharia de produção com ênfase em software na UEM.
+Meu nome é Natália, tenho 22 anos e estou cursando o terceiro ano de engenharia de produção com ênfase em software na UEM.
 
 Sou apaixonada por programação, por isso nos últimos anos venho cada vez mais buscando aprender sobre este mundo. Até o momento tenho conhecimento das seguintes linguagens: Java, Flutter, JS, HTML e CSS.
 

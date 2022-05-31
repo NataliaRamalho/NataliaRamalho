@@ -1,6 +1,6 @@
 ### Seja Bem Vindo👋
 
-<li>Meu nome é Natália, sou programadora Full Stack e estudante do quarto ano de engenharia de produção com ênfase em software na UEM.
+<li>Meu nome é Natália, sou programadora Full Stack e estudante do quinto ano de engenharia de produção com ênfase em software na UEM.
 Gosto muito de programar e de estar sempre aprendendo novas coisas. </li>
 <br>
 <li><strong>Tenho conhecimento nas seguintes tecnologias:</strong></li>
@@ -15,6 +15,9 @@ Gosto muito de programar e de estar sempre aprendendo novas coisas. </li>
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 <li><strong>Para contato:</strong></li>

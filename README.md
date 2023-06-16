@@ -2,7 +2,7 @@
 
 # 💫 Um pouco sobre mim:
 - Sou desenvolvedora Full Stack
-- Engenharia de Produção com ênfase em software
+- Engenheira de Produção com ênfase em software
 - Apaixonada por programação
 - Busco estar sempre aprendendo coisas novas 
 
